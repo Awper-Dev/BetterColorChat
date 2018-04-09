@@ -1,0 +1,7 @@
+name: BetterColorChat
+main: me.awperdev.com.ColorChat
+version: 1.2
+description: This plugins allows you to add a colorchat using permissions
+commands:
+  colorchat:
+    usage: /<command>
